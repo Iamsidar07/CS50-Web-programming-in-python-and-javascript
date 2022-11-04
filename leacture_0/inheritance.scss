@@ -1,0 +1,22 @@
+%message{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    font-weight: 500;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.success{
+    @extend %message;
+    background-color: green;
+}
+.error{
+    @extend %message;
+    background-color: red;
+}
+.warning{
+    @extend %message;
+    background-color: orange;
+}

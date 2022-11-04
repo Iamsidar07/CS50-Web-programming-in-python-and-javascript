@@ -1,0 +1,10 @@
+$color:green;
+
+p,h1{
+    color: $color;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+   color: $color;
+   font-size: 24px;
+}   

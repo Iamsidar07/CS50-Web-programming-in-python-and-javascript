@@ -1,0 +1,16 @@
+p, h1 {
+  color: green;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+a {
+  color: green;
+  font-size: 24px;
+}
+*{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 2rem;
+}
+/*# sourceMappingURL=variable.css.map */
+
+/* sass --watch scssfilename:cssfilename */
